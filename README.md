@@ -48,7 +48,7 @@ qq：22494749 mail：22494749@qq.com
 ## 数据结构
 
 * 线段树
-  * 区间更新、区间查询 （易理解）
+  * [区间更新、区间查询 （易理解）](https://github.com/ShiChenbin/ACM-Algorithm/blob/master/%E7%BA%BF%E6%AE%B5%E6%A0%91%20-%20%E5%8C%BA%E9%97%B4%E4%BF%AE%E6%94%B9%E3%80%81%E5%8C%BA%E9%97%B4%E6%9F%A5%E8%AF%A2%20%EF%BC%88%E6%98%93%E7%90%86%E8%A7%A3%EF%BC%89.cpp)
   * [单点修改、区间修改、区间查询（求和、乘法版）](https://github.com/ShiChenbin/ACM-Algorithm/blob/master/%E7%BA%BF%E6%AE%B5%E6%A0%91%20-%20%E5%8D%95%E7%82%B9%E4%BF%AE%E6%94%B9%E3%80%81%E5%8C%BA%E9%97%B4%E4%BF%AE%E6%94%B9%E3%80%81%E5%8C%BA%E9%97%B4%E6%9F%A5%E8%AF%A2%EF%BC%88%E6%B1%82%E5%92%8C%E3%80%81%E4%B9%98%E6%B3%95%E7%89%88%EF%BC%89.cpp)
 * 树状数组
 * 栈
