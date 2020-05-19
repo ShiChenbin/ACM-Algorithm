@@ -1,20 +1,21 @@
 # ACM-Algorithm
 日常ACM学习归档
 
-# preface 序言
+## preface 序言
 以下是我在学习算法途中的心得和整理，希望能帮助到自己的学习，也希望帮助到浏览过的人，欢迎指出问题和建议，十分感谢！
+
 The following is what I learned and sorted out on the way to learning the algorithm. 
 I hope to help my own learning and those who have browsed it. Please point out your questions and Suggestions, thank you very much!
 
-# blog
+## blog
 https://blog.csdn.net/qq_43382350
 https://www.cnblogs.com/ygbrsf/
 https://www.moonl1ght.xyz
 
-# contact information 联系方式
+## contact information 联系方式
 qq：22494749 mail：22494749@qq.com
 
-# contents 目录
+## contents 目录
 
 1.相关资料
 
@@ -43,3 +44,9 @@ qq：22494749 mail：22494749@qq.com
 13.题解
 
 14.比赛板子
+
+## 数据结构
+
+*线段树 - 区间更新、区间查询和
+*线段树 - 单点修改、区间修改、区间查询（求和、乘法版）
+*
